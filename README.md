@@ -21,3 +21,5 @@ This software uses the following open source packages:
 - [Sample Readme - amitmerchant1990](https://github.com/amitmerchant1990/electron-markdownify#readme)
 - [Python3](https://www.python.org/)
 - [Gitignore.io](https://www.toptal.com/developers/gitignore/)
+- [JDK - Adoptium](https://adoptium.net/)
+- [PaperMC](https://papermc.io/)
